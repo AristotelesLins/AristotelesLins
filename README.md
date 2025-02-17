@@ -67,6 +67,7 @@
   <img src="https://streak-stats.demolab.com?user=AristotelesLins&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
+<!--
 ### 🐍 Snake Game Contributions
 
 <picture>
@@ -74,4 +75,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AristotelesLins/output/main/snake.svg">
   <img alt="Snake animation" src="https://raw.githubusercontent.com/AristotelesLins/output/main/snake.svg">
 </picture>
+-->
 
