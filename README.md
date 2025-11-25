@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/AristotelesLins/AristotelesLins/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/AristotelesLins/AristotelesLins/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br>
