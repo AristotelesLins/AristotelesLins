@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=580&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38b6ff&center=true&vCenter=true&width=580&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,7 +15,7 @@
   <a href="mailto:aristoteles.lins.silva@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
   </a>
-  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+  <a href="https://www.linkedin.com/in/aristoteles-lins-b81a17381/?originalSubdomain=br">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
 </div>
@@ -91,12 +91,8 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AristotelesLins&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristotelesLins&layout=compact&langs_count=7&theme=radical"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=AristotelesLins&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristotelesLins&layout=compact&langs_count=7&theme=radical" height="180" />
 </div>
 
 <br>
