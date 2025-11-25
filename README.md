@@ -1,84 +1,111 @@
-<h1 align="center">Olá! 👋 Eu sou Aristoteles Lins</h1>
-
-<h3 align="center">Técnico em Informática | Estudante de Sistemas para Internet | Desenvolvedor Web em Formação</h3>
-
 <div align="center">
-  <a href="https://github.com/AristotelesLins">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub Logo" />
-  </a>
-  <a href="mailto:aristoteles.lins.silva@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail Logo" />
-  </a>
-      <a href="[SEU_LINKEDIN_AQUI]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Logo" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Aristoteles%20Lins&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Técnico%20em%20Informática%20|%20Dev%20Full%20Stack%20em%20Formação&descAlignY=55&descAlign=50" />
 </div>
 
----
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/AristotelesLins">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="30" alt="GitHub" />
+  </a>
+  <a href="mailto:aristoteles.lins.silva@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="LINK_DO_SEU_LINKEDIN_AQUI">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+</div>
+
+<br>
 
 ## 👨‍💻 Sobre Mim
 
-[cite_start]Sou um profissional em formação na área de Tecnologia da Informação, com **foco em Desenvolvimento Back-end e Front-end**[cite: 19, 20, 48]. [cite_start]Atualmente, sou estudante de Tecnólogo em Sistemas para Internet no IFPE/Campus Igarassu [cite: 10, 11] [cite_start]e Técnico em Manutenção e Suporte em Informática no IFPE/Campus Paulista[cite: 12, 13, 14].
-
-[cite_start]Busco aplicar e expandir meus conhecimentos em projetos desafiadores, utilizando meu entusiasmo por tecnologia e aprendizado contínuo para contribuir com resultados[cite: 3, 4].
-
-- [cite_start]🚀 **Principais Habilidades:** PHP, JavaScript, TypeScript, React, Laravel, MySQL[cite: 19, 21].
-- [cite_start]💡 **Experiência Acadêmica:** Fui Monitor de Lógica de Programação e Arquitetura de Computadores no IFPE[cite: 25, 30].
-- [cite_start]📚 **Estou sempre aprendendo e me aprimorando em:** Desenvolvimento Web, Redes e Infraestrutura, Cloud Computing, e Banco de Dados[cite: 48, 49, 50, 51].
+<table>
+  <tr>
+    <td width="60%">
+      <p>
+        🎓 <strong>Formação:</strong> Sou estudante de <b>Tecnólogo em Sistemas para Internet</b> no IFPE/Campus Igarassu e Técnico em Manutenção e Suporte em Informática no IFPE/Campus Paulista.
+      </p>
+      <p>
+        🚀 <strong>Foco:</strong> Busco aplicar e expandir meus conhecimentos em projetos desafiadores, com foco especial em <b>Desenvolvimento Back-end e Front-end</b>.
+      </p>
+      <p>
+        💡 <strong>Experiência:</strong> Atuei como Monitor de Lógica de Programação e Arquitetura de Computadores.
+      </p>
+      <p>
+        📚 <strong>Interesses:</strong> Desenvolvimento Web, Cloud Computing, Redes e Banco de Dados.
+      </p>
+    </td>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
 
-<div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="PHP logo" title="PHP" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="35" alt="Laravel logo" title="Laravel" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript logo" title="JavaScript" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript logo" title="TypeScript" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React logo" title="React" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="35" alt="MySQL logo" title="MySQL" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="35" alt="PostgreSQL logo" title="PostgreSQL" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" alt="Git logo" title="Git" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="35" alt="GitHub logo" title="GitHub" />
-    <img width="10" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="35" alt="VS Code logo" title="VS Code" />
+<div align="center">
+  <p>Minhas principais ferramentas de desenvolvimento:</p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,mysql,postgres,git,github,vscode,bootstrap,html,css&perline=7" />
 </div>
-<br>
 
 ---
 
-## ✨ Meu Projeto em Destaque
+## ✨ Projeto em Destaque
 
-**SRE - Sistema de Requerimento do Estudante** - **(07/2024 - Presente)**
-<br>
-[cite_start]Desenvolvimento colaborativo de um sistema web para simplificar e melhorar o processo de requisitos acadêmicos no IFPE[cite: 37, 39]. [cite_start]A solução torna o processo mais eficiente e acessível para estudantes e para o setor responsável (CRADT)[cite: 40].
-<br>
-[cite_start]**Tecnologias:** PHP, JavaScript, Laravel, Bootstrap e MySQL.
-
-[cite_start][Acesse o Repositório do SRE aqui](https://github.com/Timeless-inc/Quebec) 
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">SRE - Sistema de Requerimento do Estudante</h3>
+      <p align="center"><strong>(07/2024 - Presente)</strong></p>
+      <p>
+        Desenvolvimento colaborativo de um sistema web para simplificar os requerimentos acadêmicos no IFPE. A solução agiliza o processo para estudantes e para o setor responsável (CRADT).
+      </p>
+      <p>
+        🛠 <strong>Stack:</strong> PHP, Laravel, JavaScript, Bootstrap, MySQL.
+      </p>
+      <div align="center">
+        <a href="https://github.com/Timeless-inc/Quebec">
+          <img src="https://img.shields.io/badge/Ver_Repositório-3F51B5?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AristotelesLins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=blueberry&locale=en&hide_border=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AristotelesLins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=true" height="170" alt="Top Languages" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=AristotelesLins&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  </a>
 </div>
+<br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AristotelesLins&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AristotelesLins&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="180" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AristotelesLins&layout=compact&langs_count=6&theme=radical" height="180" alt="Languages" />
 </div>
 
 <br>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=AristotelesLins" alt="Contador de Visitas" />
+  <img src="https://streak-stats.demolab.com?user=AristotelesLins&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="180" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/AristotelesLins/AristotelesLins/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
 </div>
