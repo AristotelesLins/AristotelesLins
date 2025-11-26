@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38b6ff&center=true&vCenter=true&width=580&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38b6ff&center=true&vCenter=true&width=700&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
   </a>
 </div>
 
@@ -87,13 +87,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=AristotelesLins&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
   </a>
-</div>
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AristotelesLins&show_icons=true&theme=radical&v=1" height="180" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristotelesLins&layout=compact&langs_count=7&theme=radical&v=1" height="180" alt="Top Languages" />
 </div>
 
 <br>
