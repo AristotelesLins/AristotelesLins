@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38b6ff&center=true&vCenter=true&width=700&lines=PHP+%26+Laravel+Developer;Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end+e+Front-end" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38b6ff&center=true&vCenter=true&width=700&lines=Apaixonado+por+Tecnologia;Estudante+de+Sistemas+para+Internet;Foco+em+Back-end" alt="Typing SVG" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
         🎓 <strong>Formação:</strong> Sou estudante de <b>Tecnólogo em Sistemas para Internet</b> no IFPE/Campus Igarassu e Técnico em Manutenção e Suporte em Informática no IFPE/Campus Paulista.
       </p>
       <p>
-        🚀 <strong>Foco:</strong> Busco aplicar e expandir meus conhecimentos em projetos desafiadores, com foco especial em <b>Desenvolvimento Back-end e Front-end</b>.
+        🚀 <strong>Foco:</strong> Busco aplicar e expandir meus conhecimentos em projetos desafiadores, com foco especial em <b>Desenvolvimento Back-end</b>.
       </p>
       <p>
         💡 <strong>Experiência:</strong> Atuei como Monitor de Lógica de Programação e Arquitetura de Computadores.
